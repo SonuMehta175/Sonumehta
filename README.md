@@ -23,7 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonumehta175&show_icons=true&locale=en" alt="sonumehta175" /></p>
 # 👋 Hi there, I'm Sonu!
 
-🎓 I'm a 2nd-year BCA student passionate about technology and software development.  
+🎓 I'm a BCA student passionate about technology and software development.  
 💡 I love building cool and creative projects with Python, C++, HTML, and more.
 
 ---
@@ -50,9 +50,6 @@
 - 🖌️ E-Poster Making Winner (Twice)
 
 ---
-
-## 📚 Currently Learning
-- R Programming: Data structures, visualization, and machine learning (KNN, evaluation metrics)
 
 ---
 
